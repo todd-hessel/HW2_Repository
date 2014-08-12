@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HW2_Opinion</string>
+    <string name="title_activity_main">Welcome: HW2 Opinions</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="opinion_string_landscape">The world looks flat</string>
+    <string name="opinion_string_portrait">I feel so tall!</string>
+
+</resources>
